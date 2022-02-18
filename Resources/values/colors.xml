@@ -5,4 +5,7 @@
     <color name="colorAccent">#3498db</color>
 	<color name="starColor">#f5aa42</color>
 	<color name="shadowColor">#cacaca</color>
+	<color name="colorGreen">#00a318</color>
+	<color name="colorRed">#a31600</color>
+	<color name="white">#ffffff</color>
 </resources>
